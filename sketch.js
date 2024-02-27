@@ -43,22 +43,8 @@ function setup() {
 
 function draw() {
   
-  
-  
-  if (darkMode) {
-      background(100); // Set background to black during night mode
-      fill(255); // Set text color to white 
-  
- 
-  if ((totalTrashSorted > 10) && (totalTrashSorted < 20)) {
-    darkMode = true;
-  } else {
-    darkMode = false;
-  }
-  
-  
-  
-  }
+  background(255,); // Set background to black during night mode
+  fill(0);
   
 
   // Display bins
