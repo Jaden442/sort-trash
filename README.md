@@ -1,0 +1,2 @@
+# sort-trash
+sort trash
